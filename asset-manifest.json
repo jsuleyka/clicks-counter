@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clicks-counter/static/css/main.2043d78a.css",
+    "main.js": "/clicks-counter/static/js/main.3dcf78ea.js",
+    "static/media/fcc-logo.svg": "/clicks-counter/static/media/fcc-logo.71c22fe37217d534eac79826ea9d66a7.svg",
+    "index.html": "/clicks-counter/index.html",
+    "main.2043d78a.css.map": "/clicks-counter/static/css/main.2043d78a.css.map",
+    "main.3dcf78ea.js.map": "/clicks-counter/static/js/main.3dcf78ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2043d78a.css",
+    "static/js/main.3dcf78ea.js"
+  ]
+}
